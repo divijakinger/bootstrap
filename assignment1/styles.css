@@ -1,0 +1,25 @@
+.jumbotron{
+    background-color: #9575CD;
+    margin: 0px auto;
+    padding: 70px 30px 70px 30px;
+    color: white;
+}
+
+.footer{
+    background-color: #D1C5E8;
+    margin: 0px auto;
+    padding: 50px 20px 50px 20px;
+    margin-top: 100px;
+}
+
+.row-content-first{
+   border-bottom: 1px ridge;
+   margin: 0px auto;
+   padding: 0px 20px 100px 20px;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 0px 30px 0px 30px;
+
+}
